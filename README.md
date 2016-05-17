@@ -1,6 +1,6 @@
-# Millennials to Snake People
+# Passion to donuts
 
-Browser extension that reveals the *real* truth behind Millennials.
+Browser extension that reveals the *real* truth about following your passion
 
 
 ## Installation
